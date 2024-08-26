@@ -26,6 +26,9 @@ main{
     width: 200%;
 
 }
+.mensajeImagen{
+    width: 200%;
+}
 
 .text-area{
     width: 70%;
@@ -70,6 +73,8 @@ main{
 .botones{
     display: flex;
     margin-top: 18px;
+    width: 60%;
+    height: 80%;
 
 }
 
@@ -104,8 +109,9 @@ main{
     color: #0A3871;
     cursor: pointer;
     height: 67px;
-    margin-left: 65px;
-    margin-top: 535px;
+    margin-left: 1%;
+    margin-top: 30%;
+    /*margin-top: 535px;*/
     margin-bottom: 200px;
     margin-right: 50px;
     position: absolute;
